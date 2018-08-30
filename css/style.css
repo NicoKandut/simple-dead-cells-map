@@ -1,0 +1,101 @@
+.background {
+    background-image: url("../assets/bg/title.png");
+}
+
+.page-header {
+    background-color: rgb(34, 30, 26);
+}
+
+h5 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.level {
+    border-width: 2px 2px 2px 2px;
+    border-style: solid;
+    border-image-slice: 7 7 7 7;
+    border-image-width: 7px 7px 7px 7px;
+    border-image-outset: 0px 0px 0px 0px;
+    border-image-repeat: repeat;
+    border-image-source: url("../assets/box.png");
+    color: white;
+    background-size: 200%;
+}
+
+.scrolls:after {
+    vertical-align: middle;
+    content: url("../assets/scroll.png");
+}
+
+#lvl-prisoners-quarters {
+    background-image: url("../assets/bg/PrisonStart.png")
+}
+
+#lvl-promenade-of-the-condemned {
+    background-image: url("../assets/bg/PrisonCourtyard.png")
+}
+
+#lvl-toxic-sewers {
+    background-image: url("../assets/bg/SewerShort.png")
+}
+
+#lvl-ramparts {
+    background-image: url("../assets/bg/PrisonRoof.png")
+}
+
+#lvl-prison-depths {
+    background-image: url("../assets/bg/PrisonDepths.png")
+}
+
+#lvl-ossuary {
+    background-image: url("../assets/bg/Ossuary.png")
+}
+
+#lvl-ancient-sewers {
+    background-image: url("../assets/bg/SewerDepths.png")
+}
+
+#lvl-black-bridge {
+    background-image: url("../assets/bg/Bridge.png")
+}
+
+#lvl-insufferable-crypt {
+    background-image: url("../assets/bg/BeholderPit.png")
+}
+
+#lvl-stilt-village {
+    background-image: url("../assets/bg/StiltVillage.png")
+}
+
+#lvl-slumbering-sanctuary {
+    background-image: url("../assets/bg/AncientTemple.png")
+}
+
+#lvl-graveyard {
+    background-image: url("../assets/bg/Cemetery.png")
+}
+
+#lvl-clock-tower {
+    background-image: url("../assets/bg/ClockTower.png")
+}
+
+#lvl-forgotten-sepulcher {
+    background-image: url("../assets/bg/Crypt.png")
+}
+
+#lvl-clock-room {
+    background-image: url("../assets/bg/TopClockTower.png")
+}
+
+#lvl-high-peak-castle {
+    background-image: url("../assets/bg/Castle.png")
+}
+
+#lvl-throne-room {
+    background-image: url("../assets/bg/Throne.png")
+}
+
+#lvl-pier {
+    background-image: url("../assets/bg/Collector.png")
+}

@@ -1,0 +1,42 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.background {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.page-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.page-header img {
+    height: 100px;
+}
+
+#map-container {
+    margin: 30px;
+    margin-top: 130px;
+}
+
+.level {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.column {
+    padding: 20px;
+}
+
+.scrolls {
+    height: 34px;
+    vertical-align: middle;
+}
